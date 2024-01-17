@@ -7,7 +7,7 @@ The demo video is available at [youtube.](https://youtu.be/090d-8ZvHyw.)
 
 ## Usage
 ### APK Download
-We provided the [APK](https://drive.google.com/drive/folders/1juwe1bgjZ3ggiyfgzkegba2qJqw7Iuse), it can be directly used to install on your own Android phone. 
+We provided the [APK](https://drive.google.com/drive/folders/1juwe1bgjZ3ggiyfgzkegba2qJqw7Iuse), it can be directly used to install on your own Android phone. Tested with Galaxy S23 and Pixel 5. Ensure that your phone has a minimum of 8 GB of memory to ensure proper functionality of our app.
 
 * Connect your phone to the computer using a USB cable and transfer the APK file to your phone's storage. 
 * Click on the file to initiate the installation process, and then follow the prompts to install the application.
