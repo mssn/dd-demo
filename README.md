@@ -7,7 +7,7 @@ The demo video is available at [youtube.](https://www.youtube.com/watch?v=090d-8
 
 ## Usage
 ### APK Download
-We provided the [APK](https://mssn3.cs.purdue.edu/owncloud/index.php/f/4937012), it can be directly used to install on your own Android phone. Tested with Galaxy S23 and Pixel 5. Make sure that your phone has a minimum of 8 GB of memory to ensure proper functionality of our app. 
+We provided the [APK](https://mssn3.cs.purdue.edu/owncloud/index.php/s/VOxVFlz6Xk3biWl), it can be directly used to install on your own Android phone. Tested with Galaxy S23 and Pixel 5. Make sure that your phone has a minimum of 8 GB of memory to ensure proper functionality of our app. 
 
 * Connect your phone to the computer using a USB cable and transfer the APK file to your phone's storage. 
 * Click on the file to initiate the installation process, and then follow the prompts to install the application.
