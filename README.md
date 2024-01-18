@@ -2,15 +2,17 @@
 
 This repository includes the APK to build an Android app __SimpleFlyDJI__ that can be used for drone delivery based on DJI drone. Please check our paper **SSS: Towards Autonomous Drone Delivery to Your Door Over House-Aware Semantics.** 
 
-The demo video is available at [youtube.](https://youtu.be/090d-8ZvHyw.)
+The demo video is available at [youtube.](https://www.youtube.com/watch?v=090d-8ZvHyw&list=PLLzN69of2f9bD5ZfPYhDpkAv-Pz2zI7Ac&index=1&t=11s.)
 
 
 ## Usage
 ### APK Download
-We provided the [APK](https://drive.google.com/drive/folders/1juwe1bgjZ3ggiyfgzkegba2qJqw7Iuse), it can be directly used to install on your own Android phone. Tested with Galaxy S23 and Pixel 5. Ensure that your phone has a minimum of 8 GB of memory to ensure proper functionality of our app. 
+We provided the [APK](https://mssn3.cs.purdue.edu/owncloud/index.php/f/4937012), it can be directly used to install on your own Android phone. Tested with Galaxy S23 and Pixel 5. Make sure that your phone has a minimum of 8 GB of memory to ensure proper functionality of our app. 
 
 * Connect your phone to the computer using a USB cable and transfer the APK file to your phone's storage. 
 * Click on the file to initiate the installation process, and then follow the prompts to install the application.
+
+> NOTE: Our app is based on DJI Mobile Android SDK (v4.16.2), please check wether this SDK can support your DJI dronekit. Tested with DJI Air2s and Phantom Pro 4 V2.0.
 
 ### How to reproduce the drone delivery.
 Once the app is opened, it will first enter the cover page and present the connection status. When launching the app for the first time, ensure your phone is connected to a network for app authentication. 
